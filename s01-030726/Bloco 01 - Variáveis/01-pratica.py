@@ -1,5 +1,5 @@
 # 1. criando variáveis e armazenando dados
-nome_jogador = "Henrique"
+nome_jogador = "Angelo"
 pontos = 100
 multiplicador = 1.5
 

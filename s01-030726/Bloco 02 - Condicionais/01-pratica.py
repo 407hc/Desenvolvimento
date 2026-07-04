@@ -1,5 +1,5 @@
 # 1. Variávies e Dados.
-nome = "Henrique"
+nome = "Angelo"
 idade = 34
 peso = 82.0
 altura = 1.74
