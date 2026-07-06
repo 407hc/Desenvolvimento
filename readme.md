@@ -1,4 +1,5 @@
-
+# s03-060726
+<> [/*]
 
 
 # s02-040726
@@ -26,7 +27,7 @@ Estou muito contente com o que eu fiz. Conforme eu for aprendendo mais coisas, v
 Resolvi realizar os exercícios do curso dentro da IDE, onde senti ser mais eficiente do que no ambiente online.
 
 Hoje ficou evidente que, por mais que eu saiba como fazer algo, a regra, quando não praticada, é bem difícil de lembrar sem algum tipo de apoio. E a repetição é o melhor exercício para fixar o conhecimento.
-#
+
 
 # s01-030726
 <> [python/*] Nesta sessão, estou iniciando os estudos de "lógica de programação".
