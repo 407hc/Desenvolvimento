@@ -1,3 +1,6 @@
+# s04-070726
+<> [python/*] Testando um ambiente de trabalho alternativo e fiz um treino de criação de listas.
+
 # s03-060726
 <> [python/*] Nesta sessão, estou praticando Loops. Como exercício, estou recriando um script de análise de carros.
 
