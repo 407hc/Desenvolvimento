@@ -36,7 +36,7 @@ carros = [
         "ano": 2003,
         "kilometragem": 150000,
         "valor": 12000,
-        "manutencao": 1,git
+        "manutencao": 1,
     },
     {
         "fabricante": "Ford",
